@@ -1,5 +1,6 @@
 class last{
-	public void m(){
+	public void main(String .. arg){
+		System.out.prinln("Hello world");
 		
 	}
 }
